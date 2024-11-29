@@ -12,7 +12,8 @@ http://1313.dyndns.tv/hdhoytv
 http://1313.dyndns.tv/hdnews
 #EXTINF:-1 group-title="港澳台" tvg-logo="https://i.imgur.com/qDI3aMp.png" tvg-id="明珠台",明珠台
 http://1314.dyndns.tv/hdpearl
-
+#EXTINF:-1 group-title="港澳台" tvg-logo="https://i.imgur.com/qDI3aMp.png" tvg-id="四台混合",四台混合
+http://1313.dyndns.tv/hdmix
 
 
 
