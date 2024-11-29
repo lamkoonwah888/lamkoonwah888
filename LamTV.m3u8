@@ -1,0 +1,25 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="港澳台" tvg-logo="https://i.imgur.com/qDI3aMp.png" tvg-id="翡翠台",翡翠台
+http://1313.dyndns.tv/hdtvb
+#EXTINF:-1 group-title="港澳台" tvg-logo="https://i.imgur.com/qDI3aMp.png" tvg-id="TVB PLUS",TVB PLUS
+http://1313.dyndns.tv/hdtvbplus
+#EXTINF:-1 group-title="港澳台" tvg-logo="https://i.imgur.com/qDI3aMp.png" tvg-id="ViuTV",ViuTV
+http://1313.dyndns.tv/hdviutv
+#EXTINF:-1 group-title="港澳台" tvg-logo="https://i.imgur.com/qDI3aMp.png" tvg-id="開電視77台",開電視77台
+http://1313.dyndns.tv/hdhoytv
+#EXTINF:-1 group-title="港澳台" tvg-logo="https://i.imgur.com/qDI3aMp.png" tvg-id="新聞台",新聞台
+http://1313.dyndns.tv/hdnews
+#EXTINF:-1 group-title="港澳台" tvg-logo="https://i.imgur.com/qDI3aMp.png" tvg-id="明珠台",明珠台
+http://1314.dyndns.tv/hdpearl
+
+
+
+
+
+
+
+
+
+
+
